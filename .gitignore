@@ -1,3 +1,4 @@
 env/
 voteApp/__pycache__/
+voteApp/polls/__pycache__
 
